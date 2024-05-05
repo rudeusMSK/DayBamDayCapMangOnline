@@ -28,4 +28,7 @@ ___
 ![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/c179f127-d0fb-4d96-a08d-26049e32c84b)
 ---
 Cắt vỏ dây cáp và xếp dây theo thứ tự là 1–>2–>3–>5–>6–>4–>7–>8.
+---
+![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/df8beef8-54f8-4548-aa29-12596b7ce349)
+
 
