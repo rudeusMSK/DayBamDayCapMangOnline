@@ -6,8 +6,6 @@ ___
 # Cách Bấm Cáp Chéo
 ---
 ![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/d1398ff4-7ed0-49a1-b633-2d85aa6c71c1)
----
-![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/45131d77-cef1-48a1-8c25-762b71589067)
 
 ---
 Bước 1: Các bạn dùng kìm hoặc kéo cắt vỏ đầu cáp, cứ cắt dài thêm chút tý xếp màu cho dễ (với khoảng 4 cm là được).
@@ -25,6 +23,9 @@ Bước 6: Sau đó nhét vào kìm và bấm thật mạnh và thật dứt kho
 Bước 7: Quan sát xem các dây đồng của dây và lá đồng trong đâu RJ 45 đã kít hay chưa.
  
 Bước 8: Cuối cùng cắm đầu vừa làm xong vào máy tính. Còn đầu kia thì tiến hành làm tương tự.
+---
+![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/7580824e-19f1-4f7f-8e71-5a32d8c567f3)
+
 ___
 # Cách Bấm Cáp Thẳng
 ---
