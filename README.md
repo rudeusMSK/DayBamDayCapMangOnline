@@ -7,6 +7,9 @@ ___
 ---
 ![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/d1398ff4-7ed0-49a1-b633-2d85aa6c71c1)
 ---
+![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/45131d77-cef1-48a1-8c25-762b71589067)
+
+---
 Bước 1: Các bạn dùng kìm hoặc kéo cắt vỏ đầu cáp, cứ cắt dài thêm chút tý xếp màu cho dễ (với khoảng 4 cm là được).
  
 Bước 2: Gỡ các đầu xoắn và xếp theo thứ tự như sau: Màu trắng xếp trước – Cam – Xanh da trời – Xanh lá – Nâu.
