@@ -1,7 +1,9 @@
 # DayBamDayCapMangOnline
 bấm cáp mạng Online
 ___
-#Cách Bấm Cáp Chéo
+App có ý tưởng sẽ làm sao  ahihi!- ＜(´⌯  ̫⌯`)＞
+___
+# Cách Bấm Cáp Chéo
 ---
 ![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/d1398ff4-7ed0-49a1-b633-2d85aa6c71c1)
 ---
@@ -20,8 +22,8 @@ Bước 6: Sau đó nhét vào kìm và bấm thật mạnh và thật dứt kho
 Bước 7: Quan sát xem các dây đồng của dây và lá đồng trong đâu RJ 45 đã kít hay chưa.
  
 Bước 8: Cuối cùng cắm đầu vừa làm xong vào máy tính. Còn đầu kia thì tiến hành làm tương tự.
-__
-#Cách Bấm Cáp Thẳng
+___
+# Cách Bấm Cáp Thẳng
 ---
 ![image](https://github.com/rudeusMSK/DayBamDayCapMangOnline/assets/160387470/c179f127-d0fb-4d96-a08d-26049e32c84b)
 ---
